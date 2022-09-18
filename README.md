@@ -44,5 +44,6 @@ I cleaned the data based on the issues I found when investigating the dataset.
 * Extracted ratings from the text where the rating numerator contained decimals and updated the ratings. 
 * Merged all the three dataset into one.
 <hr>
+
 ### THIRD STAGE: SAVING DATA
 >- After merging all the dataset into one, I saved it as csv file.
